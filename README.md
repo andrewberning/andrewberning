@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Andrew Berning
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am an ambitious software engineer who likes making full-stack web applications. I love to contribute and help others in their code journey. I am always striving to learn more through an awesome community of other developers.
 
