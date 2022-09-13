@@ -1,4 +1,4 @@
-![Andrew Berning](EngineeringBanner.png)
+![banner](banner.png)
 
 ### Hi there 👋, my name is Andrew Berning
 
