@@ -6,13 +6,21 @@
 
 <p align="center">
 I am a software engineer located in the Bay Area. 
-  
-I am currently working on projects using the MERN stack.
-  
-Take a look at my latest projects.
 </p>
 
+<p align="center">
+I am currently working on projects using the MERN stack.
+</p>
+
+<p align="center">
+Take a look at my latest projects.
+</p>  
+
+<p align="center">
 Skills: HTML / CSS / JS / REACT 
+</p>  
+
+
 
 
 
