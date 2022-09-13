@@ -6,7 +6,9 @@
 
 <p align="center">
 I am a software engineer located in the Bay Area. 
+  
 I am currently working on projects using the MERN stack.
+  
 Take a look at my latest projects.
 </p>
 
