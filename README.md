@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-### Hi there 👋, my name is Andrew Berning
+Hi there 👋, my name is Andrew Berning
 </p>
 
 <p align="center">
