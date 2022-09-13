@@ -1,10 +1,12 @@
 <p align="center">
 <img src="banner.png"
-</p>
+
 
 ### Hi there 👋, my name is Andrew Berning
 
-I am a software engineer who likes making full-stack web applications. I love to contribute and help others in their code journey. I am always striving to learn more through an awesome community of other developers.
+I am a software engineer located in the Bay Area. 
+I am currently working on projects using the MERN stack.
+Take a look at my latest projects.
 
 Skills: HTML / CSS / JS / REACT 
 
@@ -14,4 +16,4 @@ Skills: HTML / CSS / JS / REACT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewberning)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</p>
