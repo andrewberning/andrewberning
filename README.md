@@ -1,4 +1,4 @@
-![banner](banner.png | width=100)
+![banner](banner.png)
 
 ### Hi there 👋, my name is Andrew Berning
 
