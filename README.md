@@ -2,7 +2,9 @@
 <img src="banner.png"
 </p>
 
+<p align="center">
 ### Hi there 👋, my name is Andrew Berning
+</p>
 
 <p align="center">
 I am a software engineer located in the Bay Area. 
