@@ -1,5 +1,4 @@
 ![banner](banner.png)
-<img src='downloads/banner.png' alt="banner"></img>
 
 ### Hi there 👋, my name is Andrew Berning
 
