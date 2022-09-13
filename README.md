@@ -1,6 +1,6 @@
 ![banner](banner.png)
 
-<p>align="center"
+<p align="center">
 <img src="banner.png"
 </p>
 
