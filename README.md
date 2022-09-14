@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  Hi there 👋, my name is Andrew Berning
-  <br>
-  I am a software engineer located in the Bay Area.
+  Hi there 👋, I am Andrew Berning, a software engineer located in the Bay Area.
   <br>
   I am currently working on projects using the MERN stack.
   <br>
