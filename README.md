@@ -14,5 +14,7 @@
 Take a look at my latest projects.
 </p>  
 
-
-![todolist](https://user-images.githubusercontent.com/102753394/190031213-963a1dd9-c8dc-4189-9fb8-669150fe0c4d.gif)
+<figure class="video_container">
+  <iframe src="https://user-images.githubusercontent.com/102753394/190031213-963a1dd9-c8dc-4189-9fb8-669150fe0c4d.gif" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- ![todolist](https://user-images.githubusercontent.com/102753394/190031213-963a1dd9-c8dc-4189-9fb8-669150fe0c4d.gif) -->
