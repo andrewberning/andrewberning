@@ -18,6 +18,8 @@ I am currently working on projects using the MERN stack.
 Take a look at my latest projects.
 </p>  
 
+https://user-images.githubusercontent.com/102753394/190029966-0095ff27-628b-48cd-8f61-243a652b32f0.mov
+
 <p align="center">
 Skills: HTML / CSS / JS / REACT 
 </p>  
