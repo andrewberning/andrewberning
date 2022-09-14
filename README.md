@@ -22,8 +22,5 @@ Skills: HTML / CSS / JS / REACT
 Take a look at my latest projects.
 </p>  
 
-<figure class="video_container">
-  <iframe src="https://user-images.githubusercontent.com/102753394/190029966-0095ff27-628b-48cd-8f61-243a652b32f0.mov" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-
+![todolist](https://user-images.githubusercontent.com/102753394/190031213-963a1dd9-c8dc-4189-9fb8-669150fe0c4d.gif)
