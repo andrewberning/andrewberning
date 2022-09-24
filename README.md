@@ -7,7 +7,7 @@
   <br>
   I am currently working on projects using the MERN stack.
   <br>
-  My Skills: HTML / CSS / JS / REACT
+  My Skills: HTML | CSS | Javascript | React | MongoDB | Express | Node
 </p> 
 
 <p align="center">
