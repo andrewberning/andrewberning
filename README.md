@@ -14,5 +14,3 @@
 Take a look at my latest projects.
 </p>  
 <br>
-
-![todolist](https://user-images.githubusercontent.com/102753394/190031213-963a1dd9-c8dc-4189-9fb8-669150fe0c4d.gif)
