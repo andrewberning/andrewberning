@@ -11,6 +11,6 @@
 </p> 
 
 <p align="center">
-Visit my portfolio website [here](www.google.com) or look at my projects below.
+Visit my [portfolio] or look at my projects below.
 </p>  
 <br>
