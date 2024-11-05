@@ -11,6 +11,6 @@
 </p> 
 
 <p align="center">
-Take a look at my latest projects.
+Visit my portfolio website [here](https://andrewberning.github.io/index.html) or look at my projects below.
 </p>  
 <br>
