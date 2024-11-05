@@ -11,6 +11,6 @@
 </p> 
 
 <p align="center">
-Visit my [portfolio] or look at my projects below.
+  Visit my <a href="https://andrewberning.github.io/index.html" target="_blank">portfolio</a> or look at my projects below.
 </p>  
 <br>
